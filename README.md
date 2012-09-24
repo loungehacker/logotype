@@ -33,7 +33,7 @@ Path: `./vendor/fonts/`
 
 The icons used are based on `Glypish` from the [Glypish](http://glypish.com/) project. They are Open Source under [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0/) license.
 
-Path: `./vendor/icons`
+Path: `./vendor/icons/`
 
 ## Formats
 
