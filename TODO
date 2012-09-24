@@ -1,10 +1,6 @@
 
 :: HIGH / NEXT
 
-- Release on WikiMedia:
-
-    * http://wiki.creativecommons.org/Publish/Images
-
 - Export color palette.
 
 - Add color details to README.
@@ -15,3 +11,7 @@
 - Add NOTICE clearifying "terms and conditions" for using the logotype, including respecting the loungehackers manifest (WIP)
 
 - Export EPS
+
+- Release on WikiMedia:
+
+    * http://wiki.creativecommons.org/Publish/Images
