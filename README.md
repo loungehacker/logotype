@@ -2,6 +2,8 @@
 
 ![image](https://raw.github.com/loungehackers/logotype/master/export/loungehackers-global-black-180x174.png)
 ![image](https://raw.github.com/loungehackers/logotype/master/export/loungehackers-global-white-180x174.png)
+![image](https://raw.github.com/loungehackers/logotype/master/export/loungehackers-local-sthlm-black-180x194.png)
+![image](https://raw.github.com/loungehackers/logotype/master/export/loungehackers-local-sthlm-white-180x194.png)
 
 *The official "Lounge Hackers" logotype.*
 
