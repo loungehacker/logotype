@@ -5,6 +5,8 @@
 
 - Add color details to README.
 
+- Fix Font embedding in SVG - currently relies on that OpenSans is available as system font
+
 
 :: LOW
 
