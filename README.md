@@ -1,9 +1,9 @@
 # Lounge Hackers / Logotype
 
-![image](https://raw.github.com/loungehackers/logotype/master/export/loungehackers-global-black-180x174.png)
-![image](https://raw.github.com/loungehackers/logotype/master/export/loungehackers-global-white-180x174.png)
-![image](https://raw.github.com/loungehackers/logotype/master/export/loungehackers-local-sthlm-black-180x194.png)
-![image](https://raw.github.com/loungehackers/logotype/master/export/loungehackers-local-sthlm-white-180x194.png)
+![image](https://raw.github.com/loungehackers/logotype/master/export/png/loungehackers-global-black-180x174.png)
+![image](https://raw.github.com/loungehackers/logotype/master/export/png/loungehackers-global-white-180x174.png)
+![image](https://raw.github.com/loungehackers/logotype/master/export/png/loungehackers-local-sthlm-black-180x194.png)
+![image](https://raw.github.com/loungehackers/logotype/master/export/png/loungehackers-local-sthlm-white-180x194.png)
 
 *The official "Lounge Hackers" logotype.*
 
@@ -27,7 +27,7 @@ Path: `./loungehackers-localized-*.ai`
 
 The font used is `OpenSans` from the [Google Web Fonts](http://google.com/webfonts/) project. It is Open Source under [Apache License 2.0](http://apache.org/licenses/LICENSE-2.0.txt).
 
-Path: `./vendor/fonts`
+Path: `./vendor/fonts/`
 
 ## Icons
 
@@ -43,23 +43,27 @@ The **.ai** files are saved in version `CS4`. They contain texts as texts and ar
 
 Path: `.`
 
-### .png
-
-The **.png** files are exported for convenience.
-
-Path: `./export`
-
 ### .eps
 
 *TODO*
 
+Path: `./export/eps/`
+
+### .png
+
+The **.png** files are exported for convenience.
+
+Path: `./export/png/`
+
 ### .svg
 
-*TODO*
+The **.svg** files are exported for convenience.
+
+Path: `./export/svg/`
 
 ## Origin
 
-The original logotype was created in non-vectorized/low-resolution format as a draft. This original logotype is kept in `old` for reference.
+The original logotype was created in non-vectorized/low-resolution format as a draft. This original logotype is kept in `./old/` for reference.
 
 ## Credits
 
