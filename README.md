@@ -1,5 +1,8 @@
 # Lounge Hackers / Logotype
 
+![image](https://raw.github.com/loungehackers/logotype/master/export/loungehackers-global-black-180x174.png)
+![image](https://raw.github.com/loungehackers/logotype/master/export/loungehackers-global-white-180x174.png)
+
 *The official "Lounge Hackers" logotype.*
 
 ## Profile
