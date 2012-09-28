@@ -89,19 +89,6 @@ $ pdf2svg ./loungehackers-global-black.ai ./export/svg/loungehackers-global-blac
 ```
 
 
-### .EPS
-
-They **.eps** files contain texts as *outlines* and are suited for easy rescaling.
-
-`./export/eps/`
-
-**Export**
-
-```
-$ inkscape -z -f ./export/svg/loungehackers-global-black.svg -E ./export/eps/loungehackers-global-black.eps
-```
-
-
 ### .PNG
 
 The **.png** files are exported for convenience.
