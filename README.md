@@ -88,6 +88,8 @@ The **.svg** files are exported for convenience.
 $ pdf2svg ./loungehackers-global-black.ai ./export/svg/loungehackers-global-black.svg
 ```
 
+For best quality use Adobe Illustrator `Save as...` instead.
+
 
 ### .PNG
 
@@ -98,8 +100,10 @@ The **.png** files are exported for convenience.
 **Export**
 
 ```
-$ inkscape -z -f ./export/svg/loungehackers-global-black.svg -e ./export/png/loungehackers-global-black.png -w 180   # 180px wide, with kept aspect-ratio
+$ inkscape -z -f ./export/svg/loungehackers-global-black.svg -e ./export/png/loungehackers-global-black-180.png -w 180   # 180px wide, with kept aspect-ratio
 ```
+
+For best quality and optimized size use Adobe Illustrator `Save for Web & Devices` instead.
 
 
 ## Export
