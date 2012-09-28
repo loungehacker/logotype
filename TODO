@@ -1,19 +1,14 @@
 
 :: HIGH / NEXT
 
-- Export color palette.
+- Create export scripts in `script/*` for convenience.
 
-- Add color details to README.
-
-- Fix Font embedding in SVG - currently relies on that OpenSans is available as system font
+- Export EPS
 
 
 :: LOW
 
 - Add NOTICE clearifying "terms and conditions" for using the logotype, including respecting the loungehackers manifest (WIP)
 
-- Export EPS
+- Release on WikiMedia: http://wiki.creativecommons.org/Publish/Images
 
-- Release on WikiMedia:
-
-    * http://wiki.creativecommons.org/Publish/Images
