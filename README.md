@@ -85,7 +85,7 @@ The **.svg** files are exported for convenience.
 **Export**
 
 ```
-$ pdf2svg /tmp/loungehackers-global-black.ai ./export/svg/loungehackers-global-black.svg
+$ pdf2svg ./loungehackers-global-black.ai ./export/svg/loungehackers-global-black.svg
 ```
 
 
@@ -111,7 +111,7 @@ The **.png** files are exported for convenience.
 **Export**
 
 ```
-$ inkscape -z -f ./export/svg/loungehackers-global-black.svg -e ./export/eps/loungehackers-global-black.png -w 180   # 180px wide, with kept aspect-ratio
+$ inkscape -z -f ./export/svg/loungehackers-global-black.svg -e ./export/png/loungehackers-global-black.png -w 180   # 180px wide, with kept aspect-ratio
 ```
 
 
@@ -119,8 +119,12 @@ $ inkscape -z -f ./export/svg/loungehackers-global-black.svg -e ./export/eps/lou
 
 For export scripts to work these dependencies needs to be installed:
 
-* `pdf2svg` - conversion from AI to SVG
-* `inkscape` - conversion from SVG to EPS/PNG
+* `pdf2svg` - conversion from *AI* to *SVG*
+* `inkscape` - conversion from *SVG* to *EPS* | *PNG*
+
+Useful:
+
+* `png2ico` - conversion from *PNG* to *ICO*
 
 
 ## Origin
