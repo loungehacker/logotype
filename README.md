@@ -1,7 +1,7 @@
 # Lounge Hackers / Logotype
 
-![image](https://raw.github.com/loungehackers/logotype/master/export/png/loungehackers-global-black-180x180.png)
-![image](https://raw.github.com/loungehackers/logotype/master/export/png/loungehackers-global-white-180x180.png)
+![image](https://raw.github.com/possan/logotype/master/export/png/loungehackers-global-black-180x180.png)
+![image](https://raw.github.com/possan/logotype/master/export/png/loungehackers-global-white-180x180.png)
 ![image](https://raw.github.com/loungehackers/logotype/master/export/png/loungehackers-local-sthlm-black-180x194.png)
 ![image](https://raw.github.com/loungehackers/logotype/master/export/png/loungehackers-local-sthlm-white-180x194.png)
 
